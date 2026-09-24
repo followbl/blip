@@ -1,0 +1,31 @@
+screen-leader.ts
+  s_66e5077d60ea16::t_ad60349a043a71 1-29
+screen-leader.test.ts
+  s_66e5077d60ea16::t_4f15a89c63034e 1-49
+BarWidget.qml
+  s_66e5077d60ea16::t_f868521dd7c49e 8,84-88,90
+CHANGELOG.md
+  s_66e5077d60ea16::t_34986d6e66bfe9 3-13
+CLAUDE.md
+  s_66e5077d60ea16::t_b479b429791221 361-363
+ScreenLeader.mjs
+  s_66e5077d60ea16::t_c964aa784e7ce3 1-19
+ui.test.ts
+  s_66e5077d60ea16::t_e20baac2a23017 732-735,739-740
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "fd39bf51727b98a1cc5e39642deb041526a503fa",
+  "prompts": {},
+  "sessions": {
+    "s_66e5077d60ea16": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "9da944ac-95f0-4023-95d7-bf263ec43e64",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Brad Larson <followbl@gmail.com>"
+    }
+  }
+}
