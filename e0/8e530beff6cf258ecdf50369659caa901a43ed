@@ -1,0 +1,27 @@
+BlipWindow.qml
+  s_27b26d19b91a31::t_656d30c847a7b3 109-117,125
+CHANGELOG.md
+  s_27b26d19b91a31::t_dcffb160cee18a 5-11
+CLAUDE.md
+  s_27b26d19b91a31::t_ffb0abc3e124e5 388-390
+window-restore.test.ts
+  s_27b26d19b91a31::t_57bf6e6277ef31 3-4,95-115
+window-restore.ts
+  s_27b26d19b91a31::t_91c7bcfce7c8f7 78-113,140-141
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "e08e530beff6cf258ecdf50369659caa901a43ed",
+  "prompts": {},
+  "sessions": {
+    "s_27b26d19b91a31": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "70f09285-a374-49fc-b186-a720470bf69f",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Brad Larson <followbl@gmail.com>"
+    }
+  }
+}
